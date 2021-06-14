@@ -1,1 +1,1 @@
-# tidymodels for AD454 exploration and resarch
+# tidymodels exploration and resarch exercise for AD454
